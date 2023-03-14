@@ -1,9 +1,9 @@
-package ru.yandex.practicum.catsgram.controller;
+package com.practicum.catsgram.controller;
 
 import org.springframework.web.bind.annotation.*;
-import ru.yandex.practicum.catsgram.exception.InvalidEmailException;
-import ru.yandex.practicum.catsgram.exception.UserAlreadyExistException;
-import ru.yandex.practicum.catsgram.model.User;
+import com.practicum.catsgram.exception.InvalidEmailException;
+import com.practicum.catsgram.exception.UserAlreadyExistException;
+import com.practicum.catsgram.model.User;
 
 import java.util.Collection;
 import java.util.HashMap;

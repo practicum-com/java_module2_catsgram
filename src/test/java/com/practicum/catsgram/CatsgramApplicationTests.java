@@ -1,4 +1,4 @@
-package test.java.ru.yandex.practicum.catsgram;
+package test.com.yandex.practicum.catsgram;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
