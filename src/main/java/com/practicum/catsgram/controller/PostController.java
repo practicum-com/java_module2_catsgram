@@ -1,4 +1,4 @@
-package ru.yandex.practicum.catsgram.controller;
+package com.practicum.catsgram.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
