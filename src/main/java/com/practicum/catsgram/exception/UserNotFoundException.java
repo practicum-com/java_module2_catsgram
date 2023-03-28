@@ -1,4 +1,4 @@
-package ru.yandex.practicum.catsgram.exception;
+package com.practicum.catsgram.exception;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message) {
