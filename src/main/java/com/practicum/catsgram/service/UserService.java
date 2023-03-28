@@ -1,4 +1,4 @@
-package ru.yandex.practicum.catsgram.service;
+package com.practicum.catsgram.service;
 
 import org.springframework.stereotype.Service;
 import ru.yandex.practicum.catsgram.exception.InvalidEmailException;

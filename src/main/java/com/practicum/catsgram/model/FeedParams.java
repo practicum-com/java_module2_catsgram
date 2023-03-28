@@ -1,4 +1,4 @@
-package ru.yandex.practicum.catsgram.model;
+package com.practicum.catsgram.model;
 
 import java.util.List;
 

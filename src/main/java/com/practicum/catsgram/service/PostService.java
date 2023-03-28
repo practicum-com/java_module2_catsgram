@@ -1,4 +1,4 @@
-package ru.yandex.practicum.catsgram.service;
+package com.practicum.catsgram.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
